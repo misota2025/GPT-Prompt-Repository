@@ -9,10 +9,10 @@ This repository contains a curated collection of reusable Python scripts designe
 ## 🔖 Structure
 
 Scripts are organised by folder and use case:
-    /system-tools/ – File renaming, backups, folder management
-    /data-scripts/ – CSV processing, Excel automation, data cleaning
-    /web-scraping/ – Scrapers, API calls, data extraction
-    /productivity/ – Task automation, reminders, scheduling tools
+- /system-tools/ – File renaming, backups, folder management
+- /data-scripts/ – CSV processing, Excel automation, data cleaning
+- /web-scraping/ – Scrapers, API calls, data extraction
+- /productivity/ – Task automation, reminders, scheduling tools   
 
 ## ✅ Usage
 
