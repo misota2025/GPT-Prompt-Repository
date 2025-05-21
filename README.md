@@ -7,6 +7,7 @@ This repository contains a curated collection of reusable Python scripts designe
    - 🌐 Web scraping and API integration
      
 ##🔖 Structure
+
 Scripts are organised by folder and use case:
     /system-tools/ – File renaming, backups, folder management
     /data-scripts/ – CSV processing, Excel automation, data cleaning
@@ -14,6 +15,7 @@ Scripts are organised by folder and use case:
     /productivity/ – Task automation, reminders, scheduling tools
 
 ##✅ Usage
+
     All scripts are written in Python and include comments for easy understanding.
     Version control helps track updates, variants, and enhancements.
     Feel free to fork, clone, or adapt them to suit your needs.
