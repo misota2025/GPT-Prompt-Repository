@@ -16,8 +16,12 @@ Scripts are organised by folder and use case:
 
 ## ✅ Usage
 
-    All scripts are written in Python and include comments for easy understanding.
-    Version control helps track updates, variants, and enhancements.
-    Feel free to fork, clone, or adapt them to suit your needs.
+- All scripts are written in Python and include comments for easy understanding.
+- Version control helps track updates, variants, and enhancements.
+- Feel free to fork, clone, or adapt them to suit your needs.
+
+
+---
+
 
 Maintained by Ota Obiekwe. Contributions or suggestions are welcome.
