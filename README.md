@@ -1,10 +1,10 @@
 # Python Scripts for Automation
 
-##This repository contains a curated collection of reusable Python scripts designed to support various automation tasks across:
-    ⚙️ System and file operations
-    📊 Data handling and processing
-    🌐 Web scraping and API integration
-    🧠 Productivity and workflow automation
+This repository contains a curated collection of reusable Python scripts designed to support various automation tasks across:
+    - ⚙️ System and file operations
+    - 📊 Data handling and processing
+    - 🌐 Web scraping and API integration
+   - 🧠 Productivity and workflow automation
 
 ##🔖 Structure
 Scripts are organised by folder and use case:
